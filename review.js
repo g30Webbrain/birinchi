@@ -27,3 +27,8 @@
 // git remote add [anyname] [link] -> git repo ni ulash
 // git remote -v -> qaysi repolar ulangaligini tekshirish
 
+// ====================
+
+// git add . -> 
+// git commit -m [msg]
+// git push [RepoName] [Branch]
