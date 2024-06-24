@@ -29,6 +29,6 @@
 
 // ====================
 
-// git add . -> 
-// git commit -m [msg]
-// git push [RepoName] [Branch]
+// git add . -> o'zgarishlarni oladi
+// git commit -m [msg] -> ozgarishmizga tavsif beradi, qisqa va tushunarli bolishi kerak
+// git push [RepoName] [Branch] -> o'zgarishni github ga joylaydi.
