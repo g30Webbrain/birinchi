@@ -31,4 +31,11 @@
 
 // git add . -> o'zgarishlarni oladi
 // git commit -m [msg] -> ozgarishmizga tavsif beradi, qisqa va tushunarli bolishi kerak
-// git push [RepoName] [Branch] -> o'zgarishni github ga joylaydi.
+// git push [name] [Branch] -> o'zgarishni github ga joylaydi.
+
+// git pull [name] [Branch] -> [name] reposini ichidagi [Branch] branchidan malumotni qabul qiladi
+
+
+// git branch -> hozirda bor branchlarni korish
+// git branch [branch-nomi] -> yangi branch yaratish
+// git checkout [branch-nomi] -> boshqa branchga o`tish
